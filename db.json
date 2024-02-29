@@ -1,0 +1,39 @@
+
+{
+  "Blogs": [{
+  "id":1,
+  "blog_title":"King of pop - MJ",
+  "Author":"Nayome",
+  "blog_txt":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptas maiores minima consequatur! Iste suscipit repellat officiis consectetur, explicabo placeat earum delectus hic minus expedita doloremque dolores natus nemo enim maiores dolore cumque sapiente neque officia deleniti quod, magnam sit doloribus? Tempore fugit molestiae vero nostrum. Fugit, inventore sed! Quibusdam porro corporis aut expedita exercitationem recusandae, itaque dolor culpa ad illum saepe, est magnam et sunt nihil eaque. Quae doloremque recusandae debitis nobis accusamus fuga eveniet quasi, qui hic cupiditate dolore nihil eum architecto aut dolorum blanditiis eos, magnam commodi nesciunt at. Id sapiente autem magni eum molestias quaerat aliquid tempore repudiandae debitis ratione asperiores earum fugit quod necessitatibus vel est, recusandae voluptas, exercitationem ducimus porro repellendus possimus! Repudiandae id asperiores eos vel animi placeat explicabo consequatur nam optio sed. Nisi, unde impedit cupiditate eius nemo assumenda eveniet perferendis porro maiores asperiores ex distinctio nam dolorum possimus rerum voluptatibus adipisci incidunt sunt reprehenderit necessitatibus officiis architecto laudantium. Et at ex, consectetur delectus, distinctio dolore velit dolores natus accusamus facere iste eos numquam. Eos, inventore voluptatibus laborum adipisci fuga ducimus magni vel nemo, assumenda numquam praesentium perferendis consectetur labore incidunt at temporibus quasi ipsum officiis vero sunt. Excepturi repellendus eaque perspiciatis eligendi!",
+  "blog_type" : "biography",
+  "blog_img" : "data :"
+},
+{
+  "id":2,
+  "blog_title":" Top mind bending abstract landscape",
+  "Author":"j.Pinkman",
+  "blog_txt":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptas maiores minima consequatur! Iste suscipit repellat officiis consectetur, explicabo placeat earum delectus hic minus expedita doloremque dolores natus nemo enim maiores dolore cumque sapiente neque officia deleniti quod, magnam sit doloribus? Tempore fugit molestiae vero nostrum. Fugit, inventore sed! Quibusdam porro corporis aut expedita exercitationem recusandae, itaque dolor culpa ad illum saepe, est magnam et sunt nihil eaque. Quae doloremque recusandae debitis nobis accusamus fuga eveniet quasi, qui hic cupiditate dolore nihil eum architecto aut dolorum blanditiis eos, magnam commodi nesciunt at. Id sapiente autem magni eum molestias quaerat aliquid tempore repudiandae debitis ratione asperiores earum fugit quod necessitatibus vel est, recusandae voluptas, exercitationem ducimus porro repellendus possimus! Repudiandae id asperiores eos vel animi placeat explicabo consequatur nam optio sed. Nisi, unde impedit cupiditate eius nemo assumenda eveniet perferendis porro maiores asperiores ex distinctio nam dolorum possimus rerum voluptatibus adipisci incidunt sunt reprehenderit necessitatibus officiis architecto laudantium. Et at ex, consectetur delectus, distinctio dolore velit dolores natus accusamus facere iste eos numquam. Eos, inventore voluptatibus laborum adipisci fuga ducimus magni vel nemo, assumenda numquam praesentium perferendis consectetur labore incidunt at temporibus quasi ipsum officiis vero sunt. Excepturi repellendus eaque perspiciatis eligendi!",
+  "blog_type" : "Art AI",
+  "blog_img" : "data :"
+},
+{
+  "id":3,
+  "blog_title":" Glory, glory, Man United!",
+  "Author":"Nani",
+  "blog_txt":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptas maiores minima consequatur! Iste suscipit repellat officiis consectetur, explicabo placeat earum delectus hic minus expedita doloremque dolores natus nemo enim maiores dolore cumque sapiente neque officia deleniti quod, magnam sit doloribus? Tempore fugit molestiae vero nostrum. Fugit, inventore sed! Quibusdam porro corporis aut expedita exercitationem recusandae, itaque dolor culpa ad illum saepe, est magnam et sunt nihil eaque. Quae doloremque recusandae debitis nobis accusamus fuga eveniet quasi, qui hic cupiditate dolore nihil eum architecto aut dolorum blanditiis eos, magnam commodi nesciunt at. Id sapiente autem magni eum molestias quaerat aliquid tempore repudiandae debitis ratione asperiores earum fugit quod necessitatibus vel est, recusandae voluptas, exercitationem ducimus porro repellendus possimus! Repudiandae id asperiores eos vel animi placeat explicabo consequatur nam optio sed. Nisi, unde impedit cupiditate eius nemo assumenda eveniet perferendis porro maiores asperiores ex distinctio nam dolorum possimus rerum voluptatibus adipisci incidunt sunt reprehenderit necessitatibus officiis architecto laudantium. Et at ex, consectetur delectus, distinctio dolore velit dolores natus accusamus facere iste eos numquam. Eos, inventore voluptatibus laborum adipisci fuga ducimus magni vel nemo, assumenda numquam praesentium perferendis consectetur labore incidunt at temporibus quasi ipsum officiis vero sunt. Excepturi repellendus eaque perspiciatis eligendi!",
+  "blog_type" : "Sport",
+  "blog_img" : "data :"
+},
+{
+  "id":2,
+  "blog_title":" Windows phone",
+  "Author":"Anonymous",
+  "blog_txt":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptas maiores minima consequatur! Iste suscipit repellat officiis consectetur, explicabo placeat earum delectus hic minus expedita doloremque dolores natus nemo enim maiores dolore cumque sapiente neque officia deleniti quod, magnam sit doloribus? Tempore fugit molestiae vero nostrum. Fugit, inventore sed! Quibusdam porro corporis aut expedita exercitationem recusandae, itaque dolor culpa ad illum saepe, est magnam et sunt nihil eaque. Quae doloremque recusandae debitis nobis accusamus fuga eveniet quasi, qui hic cupiditate dolore nihil eum architecto aut dolorum blanditiis eos, magnam commodi nesciunt at. Id sapiente autem magni eum molestias quaerat aliquid tempore repudiandae debitis ratione asperiores earum fugit quod necessitatibus vel est, recusandae voluptas, exercitationem ducimus porro repellendus possimus! Repudiandae id asperiores eos vel animi placeat explicabo consequatur nam optio sed. Nisi, unde impedit cupiditate eius nemo assumenda eveniet perferendis porro maiores asperiores ex distinctio nam dolorum possimus rerum voluptatibus adipisci incidunt sunt reprehenderit necessitatibus officiis architecto laudantium. Et at ex, consectetur delectus, distinctio dolore velit dolores natus accusamus facere iste eos numquam. Eos, inventore voluptatibus laborum adipisci fuga ducimus magni vel nemo, assumenda numquam praesentium perferendis consectetur labore incidunt at temporibus quasi ipsum officiis vero sunt. Excepturi repellendus eaque perspiciatis eligendi!",
+  "blog_type" : "Art AI",
+  "blog_img" : "data :"
+}],
+"comments": [
+  { "id": 1, "body": "some comment", "postId": 1 },
+  { "id": 2, "body": "some comment", "postId": 1 }
+]
+}
